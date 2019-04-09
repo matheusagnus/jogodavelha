@@ -11,6 +11,9 @@ jogada com a pontuação máxima quando for o turno da IA ​​e escolherá a j
 com a pontuação mínima quando for o turno do jogador humano. Usando esta 
 estratégia, Minimax evita perder para o jogador humano.
 
+Esse projeto foi baseado no artigo de Lorenzo Candiago, sobre inteligência 
+artificial. [Clique aqui para saber mais.](https://www.organicadigital.com/seeds/algoritmo-minimax-introducao-a-inteligencia-artificial/)
+
 ## Estrutura do Jogo
 
 Para estruturar nosso jogo usaremos html, css e javascript para fazer as 
